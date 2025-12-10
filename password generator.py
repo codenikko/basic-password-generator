@@ -25,7 +25,7 @@ for i in password:
 
 random.shuffle(list)
 
-p=" "
+p=""
 
 for i in list:
     p+= i
