@@ -1,1 +1,1 @@
-Download the only <bold>password</bold> generator.py file to run it locally on your computer lol. 
+Download the only <strong>password</strong> generator.py file to run it locally on your computer lol. 
